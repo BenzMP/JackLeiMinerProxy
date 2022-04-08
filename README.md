@@ -17,10 +17,3 @@
 * bash <(curl -s -L https://raw.githubusercontent.com/JackLeiMinerProxy/JackLeiMinerProxy/main/scripts/manage.sh)
 * linux系统一键安装脚本↓大陆服务器
 * bash <(curl -s -L https://cdn.jsdelivr.net/gh/JackLeiMinerProxy/JackLeiMinerProxy@main/scripts/manage_proxy.sh)
-
-
-支持ETC和ETH中转+抽水自带加密
-你不开抽水功能我也不抽水
-你打开抽水功能你随意抽我只抽千分之三
-你可以自己用，也可以抽别人
-支持TCP转发，也支持SSL加密转发。
